@@ -1,5 +1,5 @@
 <!-- Floating / Animated Designation -->
-<h1 align="center">Hi 👋, I'm Coder</h1>
+<h1 align="center">Hi 👋, from Software Intern</h1>
 <h3 align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;MERN+Stack+Developer;Java+%26+SQL+Enthusiast;Problem+Solver+%7C+Logic+Builder" 
