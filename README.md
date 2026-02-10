@@ -56,20 +56,5 @@ I focus on **clean code, strong logic, and real-world problem solving**, while c
 
 ---
 
-## 📈 GitHub Philosophy
-
-- Quality over quantity  
-- Consistent learning & commits  
-- Code that explains itself  
-- Growth through practice  
-
----
-
-## 🤝 Connect & Collaborate
-
-- 💻 GitHub: *You’re already here*
-- 🤝 Open to collaboration, learning, and discussions
-
----
 
 ⭐ *Feel free to explore my repositories and star anything you find useful.*
