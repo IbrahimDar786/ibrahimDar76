@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Coder</h1>
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;MERN+Stack+Developer;Java+%26+SQL+Enthusiast;Problem+Solver+%7C+Logic+Builder" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Software+Developer;MERN+Stack+Developer;Java+%26+SQL+Enthusiast;Problem+Solver+%7C+Logic+Builder" 
     alt="Typing SVG" 
   />
 </h3>
@@ -11,70 +11,65 @@
 
 ## 👨‍💻 About Me
 
-I am a **passionate Software Developer** focused on building scalable, maintainable, and user-centric applications.  
-I enjoy turning complex problems into simple, efficient solutions and continuously improving my skills through hands-on projects and deep concept learning.
-
-- 🔹 Strong foundation in **Core Java & DSA**
-- 🔹 Experienced with **MERN Stack Development**
-- 🔹 Comfortable working with **SQL (MySQL / Oracle)**
-- 🔹 Actively improving problem-solving and system thinking
-- 🔹 Curious about how things work under the hood
+I’m a **Software Developer** who enjoys building reliable, scalable applications and strengthening core fundamentals.  
+I focus on **clean code, strong logic, and real-world problem solving**, while continuously improving through projects and practice.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java  
-- JavaScript  
-- C  
-- C++  
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+</p>
 
-### 🌐 Web Development
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- React.js  
-- Node.js  
-- Express.js  
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Databases
-- MySQL  
-- Oracle SQL  
-- MongoDB  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- MongoDB Compass  
-- Postman  
-
----
-
-## 📌 What I Focus On
-
-- Writing **clean, readable, and optimized code**
-- Building **real-world projects** end-to-end
-- Strengthening **logic building & DSA fundamentals**
-- Understanding **backend workflows and database design**
-- Following **best practices** in software development
+### 🧰 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Goals
+## 🎯 What I Care About
 
-- Consistently push meaningful code  
-- Showcase well-structured projects  
-- Improve code quality with every commit  
-- Learn by building, debugging, and refactoring  
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 GitHub: *You’re already here 😉*
-- 📫 Open to collaboration, learning, and discussions  
+- Writing **clean and maintainable code**
+- Building **end-to-end projects**
+- Improving **DSA & logical thinking**
+- Understanding **backend systems & databases**
+- Following **industry best practices**
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore my repositories and give them a star!*
+## 📈 GitHub Philosophy
+
+- Quality over quantity  
+- Consistent learning & commits  
+- Code that explains itself  
+- Growth through practice  
+
+---
+
+## 🤝 Connect & Collaborate
+
+- 💻 GitHub: *You’re already here*
+- 🤝 Open to collaboration, learning, and discussions
+
+---
+
+⭐ *Feel free to explore my repositories and star anything you find useful.*
